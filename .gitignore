@@ -1,0 +1,7 @@
+uploads/*/*
+!uploads/*/.gitkeep
+config/koneksi.php
+.env
+.vscode/
+.idea/
+node_modules/
